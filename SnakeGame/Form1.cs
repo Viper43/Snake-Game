@@ -1,8 +1,3 @@
-
-Murat ismet
-2 weeks ago
-All codes;
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
